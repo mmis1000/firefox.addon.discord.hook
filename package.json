@@ -1,0 +1,12 @@
+{
+  "name": "firefox-discord-hook",
+  "version": "0.0.1",
+  "description": "",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}

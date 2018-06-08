@@ -1,0 +1,25 @@
+{
+    "manifest_version": 2,
+    "name": "Discord Hook",
+    "version": "0.0.1",
+    "applications": {
+        "gecko": {
+            "id": "firefox.addon.discord.hook@mmis1000.me"
+        }
+    },
+    "description": "Hook the discord to show waht are you playing",
+
+    "icons": {
+        "48": "icon.png"
+    },
+
+    "background": {
+        "page": "background.html"
+    },
+
+    "permissions": [
+        "storage",
+        "tabs",
+        "identity"
+    ]
+}
